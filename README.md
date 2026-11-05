@@ -4,8 +4,6 @@
 
 **Founder building Viewchive, and systems that run real work with Claude Code.**
 
-[viewchive.com](https://viewchive.com)
-
 </div>
 
 ## Now
