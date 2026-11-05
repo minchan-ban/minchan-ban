@@ -12,7 +12,7 @@
 
 ## Experience
 
-- **Product Manager, Willog** (Jan–Apr 2025): My proposal for a digital cargo insurance business was launched as Willog Insurance.
+- **Product Manager, Willog** (Jan–Apr 2025): My proposal for a digital cargo insurance business was launched as Willog Insurance. Built the go-to-market strategy from target market research and sales meeting analysis, and created a sales database with key contacts for the sales team.
 - **President, [KULSOM](https://kulsom.org/)** (Jul–Dec 2024; member from Mar 2024), Korea University's operations management society: Pitched 50 companies and won 5 industry-academia projects in one semester, the most in the society's history.
 - **Production Worker, Food Factory** (Mar 2022–Feb 2024): Forecast holiday demand and built stock in advance, saving about KRW 15 million in labor costs.
 - **Founder, KU GREEN** (Nov 2021–Jun 2022): Ran a tumbler mileage program with 8 campus cafés and reached 201 users.
