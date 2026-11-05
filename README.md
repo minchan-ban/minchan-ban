@@ -45,7 +45,7 @@
 
 - **[bmc-ppt](https://github.com/minchan-ban/bmc-ppt)**: A Claude Code system that builds consulting-style decks and exports them as editable PPTX, PDF, and Figma files
 - **[claude-banner](https://github.com/minchan-ban/claude-banner-for-mcban-fans)**: A Claude Code startup banner that renders your photo as pixel art when you run `claude`
-- And countless secret projects
+- And countless secret projects 😎
 
 ## Stack
 
