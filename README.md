@@ -8,7 +8,7 @@
 
 ## Now
 
-- **CEO, [Trinity](https://viewchive.com)**: Building Viewchive, a beauty creator commerce platform that finds the cosmetics shown in Reels.
+- **CEO, Trinity**: Building Viewchive, a beauty creator commerce platform that finds the cosmetics shown in Reels.
 
 ## Experience
 
